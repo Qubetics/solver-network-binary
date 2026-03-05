@@ -22,8 +22,8 @@ After onboarding, fund your node with the minimum required liquidity:
 
 | Asset    | Minimum Required |
 | -------- | ---------------- |
-| **TICS** | 10 TICS          |
-| **BTC**  | 600 satoshis     |
+| **TICS** | 100000 TICS          |
+| **BTC**  | 0.065 BTC     |
 
 > *These amounts are examples and subject to change. Refer to the latest network parameters for confirmed values.*
 
