@@ -54,6 +54,11 @@ Each Solver Node needs a unique Peer ID to identify itself on the network. Gener
 
 Save the generated Peer ID — you'll need it for the onboarding step.
 
+**NOTE:** By default RPC port is 80 if you want to change the RPC port create a .env file and add the port there like this
+~~~bash
+export RPC_PORT="your_port"
+~~~
+
 ## 2. Onboard & Fund the Node
 
 Once your Peer ID is generated, it needs to be **onboarded** (registered) on the network. Use the onboarding portal to register:
